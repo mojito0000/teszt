@@ -2,7 +2,10 @@
 
 ## Texture
 
-## Collider
+## Collision
+
+## Floating Objects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc0ODU1NjEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODIzMjAyMDA3LC0xNzE3NDg1NTYxLDczMD
+k5ODExNl19
 -->
