@@ -12,11 +12,11 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 
 ### [Shaders](Shaders.md)
 
-### [Particle Effects](cascade.md)
+### [Particle Effects](Particle%20Effects.md)
 
-### [HLOD-s](hlod.md)
+### [HLOD-s](HLOD-s.md)
 
-### [3Ds MAX](3ds.md)
+### [3ds Max](3ds%20Max.md)
 
 ## Export a file
 
@@ -137,6 +137,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzU1ODQ1Myw1NTgyNDQ0MzksMTcyND
-M4ODgxNF19
+eyJoaXN0b3J5IjpbLTc4MTIzMzA1LDU1ODI0NDQzOSwxNzI0Mz
+g4ODE0XX0=
 -->
