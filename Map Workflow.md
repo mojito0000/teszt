@@ -10,10 +10,11 @@ When you get a map from designers, you have to do a lot of steps before it can b
 
 ## Sub-Levels
 
-## Box ReflectionHLOD
+## HLOD
 
-> Written with [StackEdit](https://stackedit.io/).
+>HLODs can replace multiple Static Mesh Actors with single, combined Static Mesh Actor at long view distances. This helps reduce the number of Actors that need to be rendered for the scene, increasing performance by lowering the number of draw calls per frame.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQzMjgwMzIsLTg1NzY3Njg4NSwtND
-E0MTc1OTIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTcxMDA2OTU3MiwtODU3Njc2ODg1LC00MT
+QxNzU5MjIsNzMwOTk4MTE2XX0=
 -->
