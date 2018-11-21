@@ -19,12 +19,12 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 ### [3Ds MAX][3ds]
 
 [map]: www.google.com
-[problems]:
-[important]:
-[shaders]:
-[cascade]:
-[hlod]:
-[3ds]:
+[problems]:  www.google.com
+[important]:  www.google.com
+[shaders]:  www.google.com
+[cascade]:  www.google.com
+[hlod]:  www.google.com
+[3ds]:  www.google.com
 ## Export a file
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzgwOTE4NV19
+eyJoaXN0b3J5IjpbODU5NTU0N119
 -->
