@@ -1,5 +1,5 @@
 # GFX Artist
-These markdowns are going to teach you how to work as a GFX Artist in UE4 (.
+These markdowns are going to teach you how to work as a GFX Artist in UE4 (4.20.3).
 GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 
 ## Markdowns
@@ -8,7 +8,7 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 
 ### [Common Problems](Common%20Problems.md)
 
-### [Important Functions](Important%20Functions.md)
+### [Unreal Engine 4](Unreal%20Engine.md)
 
 ### [Shaders](Shaders.md)
 
@@ -76,6 +76,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM0MDUyMyw3NjMzMTgwNDIsLTc4MT
-IzMzA1LDU1ODI0NDQzOSwxNzI0Mzg4ODE0XX0=
+eyJoaXN0b3J5IjpbNDM0NTg5NTcsNzYzMzE4MDQyLC03ODEyMz
+MwNSw1NTgyNDQ0MzksMTcyNDM4ODgxNF19
 -->
