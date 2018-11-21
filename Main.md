@@ -6,9 +6,9 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 
 ### [Map Workflow](Map%20Workflow.md)
 
-### [Common Problems](Common_Problems.md)
+### [Common Problems](Common%20Problems.md)
 
-### [Important Functions](Important_Functions.md)
+### [Important Functions](Important%20Functions.md)
 
 ### [Shaders](Shaders.md)
 
@@ -137,6 +137,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODA4Mzg1OSw1NTgyNDQ0MzksMTcyND
+eyJoaXN0b3J5IjpbMjEzMzU1ODQ1Myw1NTgyNDQ0MzksMTcyND
 M4ODgxNF19
 -->
