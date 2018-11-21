@@ -1,7 +1,6 @@
+# Particle Effects
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg1ODk2OTE0OSw3MzA5OTgxMTZdfQ==
 -->
