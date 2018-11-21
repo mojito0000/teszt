@@ -1,7 +1,8 @@
+# Common Problems
 
+## Texture
 
-
-> Written with [StackEdit](https://stackedit.io/).
+## Collision
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyODgyNDc2MSw3MzA5OTgxMTZdfQ==
 -->
