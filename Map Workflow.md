@@ -1,9 +1,9 @@
 # Map Workflow
 
-When you
+When you get a map from designers, you have to do 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTUyMjc5MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MTcyMDY0NzcsNzMwOTk4MTE2XX0=
 -->
