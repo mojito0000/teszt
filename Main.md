@@ -4,13 +4,13 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 
 ## Markdowns
 
-### [Map Workflow][Map Workflow.md]
+### [Map Workflow](Map_Workflow.md)
 
-### [Common Problems][Common Problems.md]
+### [Common Problems](Common_Problems.md)
 
-### [Important Functions](Important_Functions.dm)
+### [Important Functions](Important_Functions.md)
 
-### [Shaders][shaders]
+### [Shaders](Shaders.md)
 
 ### [Particle Effects][cascade]
 
@@ -137,5 +137,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2OTAxNTQ3LDE3MjQzODg4MTRdfQ==
+eyJoaXN0b3J5IjpbNTU4MjQ0NDM5LDE3MjQzODg4MTRdfQ==
 -->
