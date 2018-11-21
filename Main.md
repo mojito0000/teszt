@@ -19,8 +19,6 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 ### [3ds Max](3ds%20Max.md)
 
 
-# Publication
-
 # Markdown extensions
 
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
@@ -78,6 +76,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYzMzc4NzUsLTc4MTIzMzA1LDU1OD
-I0NDQzOSwxNzI0Mzg4ODE0XX0=
+eyJoaXN0b3J5IjpbNzYzMzE4MDQyLC03ODEyMzMwNSw1NTgyND
+Q0MzksMTcyNDM4ODgxNF19
 -->
