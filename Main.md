@@ -4,17 +4,15 @@ GFX Artist makes graphic effect like shaders, lighting, particle effects, etc...
 
 ## Markdowns
 
+### [Unreal Engine 4](Unreal%20Engine.md)
+
 ### [Map Workflow](Map%20Workflow.md)
 
 ### [Common Problems](Common%20Problems.md)
 
-### [Unreal Engine 4](Unreal%20Engine.md)
-
 ### [Shaders](Shaders.md)
 
 ### [Particle Effects](Particle%20Effects.md)
-
-### [HLOD-s](HLOD-s.md)
 
 ### [3ds Max](3ds%20Max.md)
 
@@ -76,6 +74,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NTg5NTcsNzYzMzE4MDQyLC03ODEyMz
-MwNSw1NTgyNDQ0MzksMTcyNDM4ODgxNF19
+eyJoaXN0b3J5IjpbLTkzMjM0MTI5Niw0MzQ1ODk1Nyw3NjMzMT
+gwNDIsLTc4MTIzMzA1LDU1ODI0NDQzOSwxNzI0Mzg4ODE0XX0=
+
 -->
