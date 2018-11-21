@@ -18,8 +18,10 @@ When you get a map from designers, you have to do a lot of steps before it can b
 
 1. Enable by going to **World Settings -> LODSystem -> Enable Hierarchical LODSystem**
 2. Once this is enabled you can go to the **Main Menu -> Window -> Hierarchical LOD Outliner** to set up how HLODs are generated for your scene.
-3. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODQ4MjU4Niw0NTg2NzgzNjcsLTg1Nz
-Y3Njg4NSwtNDE0MTc1OTIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkwMDU1ODcyMywxNjA4NDgyNTg2LDQ1OD
+Y3ODM2NywtODU3Njc2ODg1LC00MTQxNzU5MjIsNzMwOTk4MTE2
+XX0=
 -->
