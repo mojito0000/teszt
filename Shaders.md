@@ -1,7 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# Shaders
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTk4ODQ4MjE1LDczMDk5ODExNl19
 -->
